@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Talal Ahmad
 
 - 🌱 I’m currently learning IN Computer Engineering C++
 - 📫 How to reach me: gahm944@gmil.com
